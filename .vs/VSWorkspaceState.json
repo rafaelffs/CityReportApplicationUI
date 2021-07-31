@@ -1,9 +1,7 @@
 {
   "ExpandedNodes": [
-    "",
-    "\\src",
-    "\\src\\app\\home"
+    ""
   ],
-  "SelectedNode": "\\src\\styles.css",
+  "SelectedNode": "\\docker-compose.yml",
   "PreviewInSolutionExplorer": false
 }
